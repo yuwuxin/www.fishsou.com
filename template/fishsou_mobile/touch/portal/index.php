@@ -2,8 +2,6 @@
 
 <!--{template common/header}-->
 
-
-
 <header class="header rtj1009_header">
 
 	<div class="ren_nav cl">
@@ -38,33 +36,25 @@
 
 <!-- header end -->
 
-
-
 <div class="rtj1009_m_portal m_pb49">
 
 	<div class="rtj1009_p_nav">
 
     	<div class="ren_p_nav">
 
-        	<a href="#">美食</a>
+        	<a href="portal.php?mod=list&catid=2">行业资讯</a>
 
-            <a href="#">交友</a>
+            <a href="portal.php?mod=list&catid=69">养殖技术</a>
 
-            <a href="#">求职</a>
+            <a href="portal.php?mod=list&catid=80">水产价格</a>
 
-            <a href="#">汽车</a>
-
-            <a href="#">情感</a>
-
+            <a href="portal.php?mod=list&catid=26">种苗饲料</a>
+            
         </div>
 
     </div>
 
-
-
 <!-- 这下面放DIY模块调用地址 -->
-
-
 
 <!--{block/1233}-->
 
@@ -72,56 +62,14 @@
 
 <!--{block/1236}-->
 
-<!--{block/6}-->
+<!--{block/1237}-->
 
-<!--{block/7}-->
-
-
+<!--{block/1238}-->
 
 <!-- 结束 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <script type="text/javascript" src="template/fishsou_mobile/js/index.js"></script>
 
 </div>
 
 <!--{template common/footer}-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

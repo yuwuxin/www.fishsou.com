@@ -8,8 +8,6 @@
 
 <!--{template common/header}-->
 
-
-
 <script type="text/javascript">
 
 	function getvisitclienthref() {
@@ -32,11 +30,7 @@
 
 </script>
 
-
-
 <!--{if $_GET['visitclient']}-->
-
-
 
 <header class="header">
 
@@ -80,17 +74,11 @@
 
 </script>
 
-
-
 <!--{else}-->
-
-
 
 <!-- header start -->
 
 <!--{if $showvisitclient}-->
-
-
 
 <div class="visitclienttip vm" style="display:block;">
 
@@ -118,11 +106,7 @@
 
 </script>
 
-
-
 <!--{/if}-->
-
-
 
 <header class="header rtj1009_header">
 
@@ -164,8 +148,6 @@
 
 <div class="rtj1009_m_forum m_pb49" id="wp">
 
-
-
 		<div class="rtj1009_m_tab">
 
 			<section>
@@ -188,35 +170,17 @@
 
 						<section id="ren_tabxx_1">
 
-                        
-
-                        
-
 							<!-- 这下面放DIY模块调用地址 -->
 
-                            
+                            <!--{block/1239}-->
 
-                            
+                            <!--{block/1240}-->
 
-                            
+                            <!--{block/1241}-->
 
-                            <!--{block/8}-->
-
-                            <!--{block/9}-->
-
-                            <!--{block/10}-->
-
-                            <!--{block/11}-->
-
-
-
-                            
-
-                            
+                            <!--{block/1242}-->
 
                             <!-- 结束 -->
-
-                            
 
                         </section>
 
@@ -227,8 +191,6 @@
                         <!--{eval $forumscount = count($forum_favlist);}-->
 
                         <!--{eval $forumcolumns = $forumscount > 3 ? ($forumscount == 4 ? 4 : 5) : 1;}-->
-
-              
 
                         <!--{eval $forumcolwidth = (floor(100 / $forumcolumns) - 0.1).'%';}-->
 
@@ -346,14 +308,6 @@
 
 		</div><!-- /container -->
 
-
-
-
-
-
-
-        
-
 		<script>
 
 			(function() {
@@ -371,16 +325,6 @@
 			})();
 
 		</script>
-
-	
-
-    
-
-            
-
-            
-
-            
 
 </div>
 
@@ -444,13 +388,7 @@ $(function (){
 
 });
 
-
-
 </script>
-
-		
-
-
 
 <script type="text/javascript">
 
@@ -492,10 +430,6 @@ $(function (){
 
 </script>
 
-
-
 <!--{/if}-->
 
 <!--{template common/footer}-->
-
-

@@ -62,40 +62,16 @@
 
 </form>
 
-
-
-
-
 <!--{if !empty($searchid) && submitcheck('searchsubmit', 1)}-->
 
 	<!--{subtemplate search/thread_list}-->
 
 <!--{/if}-->
 
-
-
-
-
-
-
 <!-- 这下面放DIY模块调用地址 -->
 
-
-
-
-
-<!--{block/12}-->
-
-
-
-
+<!--{block/1243}-->
 
 <!-- 结束 -->
 
-
-
-
-
 <!--{template common/footer}-->
-
-
