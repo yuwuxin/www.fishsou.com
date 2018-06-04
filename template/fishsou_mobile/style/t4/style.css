@@ -1,0 +1,64 @@
+/*
+[name]清新绿[/name]
+[iconbgcolor]#61CC73[/iconbgcolor]
+*/
+
+.rtj1009_header { border-bottom: 1px solid #61CC73; background-color: #61CC73; }
+.ren_nav_list .ren_nav_fx { border-left: 2px solid #61CC73; }
+.ren_nav_list .ren_nav_wd { border-left: 2px solid #61CC73; }
+.ren_btn:hover { background-color: #61CC73; border-color: #61CC73; }
+.ren_btn:focus, .ren_btn.focus { background-color: #61CC73; border-color: #61CC73; }
+.ren_btn { background-color: #61CC73; border-color: #61CC73; }
+.btn { border: 1px solid #61CC73; }
+.ren_tab nav li a::after { background: #61CC73; }
+.ren_tie_list .ren_list .ren_twsj a.ren_zz_gz { color: #61CC73; }
+.ren_bk_top .ren_bk_biaoti a { color: #61CC73; }
+.ren_bk_top .ren_bk_ft a { background-color: #61CC73; }
+.ren_tie_list .rtj1009_th .ren_tf a.a { border-bottom: 2px solid #61CC73; color: #61CC73; }
+.btn_pn_grey { background: #61CC73; }
+.btn_pn_blue { background: #61CC73; }
+.rtj1009_post .ren_ft_anniu .ren_ft_an { background-color: #61CC73; }
+.button { background: #61CC73; }
+.button2 { background: #61CC73; }
+.ren_hd_bmxx .subforumshow h3 { background-color: #61CC73; }
+.act_fai { background: #61CC73; }
+.act_fai button, .act_fai p { background: #61CC73; }
+.ren_po_tpan input { background: #61CC73; }
+.ren_rwd_an .ren_rwd_anniu { background-color: #61CC73; }
+.ren_tip .ren_rfm a.ren_ljzc { color: #61CC73; }
+.rtj1009_nv_tb .a a { background: #61CC73; }
+.ren_addflw a {background-color: #61CC73; }
+.ren_addflw .flw_status_1 { background: #61CC73; }
+
+.rtj1009_zcd ul a.a::after { background: #61CC73; }
+.ren_lai_xc a span { background: #61CC73; }
+.form_bc .form_fai { background: #61CC73; }
+.form_bc .form_fai .pnc { background: #61CC73; }
+.ren_dialog_y .ren_dialog_c { background: #61CC73; }
+.ren_dialog_y .ren_dialog_t::before {  border-top: #61CC73 solid 1px; border-right: #61CC73 solid 1px; background: #61CC73; }
+.ren_kshf .ren_post_tj .ren_post_tjan { background-color: #61CC73; }
+
+.btn_login .pn,.btn_register .pn { background: #61CC73; }
+.ren_pn { background: #61CC73; }
+.ren_m_dl button.ren_zc_pn { background: #61CC73; }
+.ren_ljzc { color: #61CC73; border: 1px solid #61CC73; }
+.ren_ljzc span { color: #61CC73; }
+.ren_xx_hui .ren_xx_rn .button3 { background: #61CC73; }
+.ren_zcxy .ren_pskts span { background: #61CC73; }
+
+.ren_fx .ren_fx_fl .ren_fx_xxbt { border-left: 2px solid #61CC73; }
+.rtj1009_wz_nav ul li.a a { color: #61CC73; }
+.rtj1009_wz_nav ul li.a a::after { background: #61CC73; }
+.rtj1009_m_view .ren_wz_zy span { background: #61CC73; }
+.ren_wz_pl .ren_post_tj .ren_post_tjan { background-color: #61CC73;}
+.ren_foo_yi { background-color: #61CC73; }
+.ren_foo a.a { color: #61CC73; }
+.ren_fgsz .ren_pskts span { background: #61CC73; }
+.tip .button { background: #61CC73; }
+
+.ren_foo .ren_fa_yi.a::before { background: url(rtj1009_ui014.png) 0px -42px no-repeat;}
+.ren_foo .ren_fa_e.a::before { background: url(rtj1009_ui014.png) 0px -119px no-repeat;}
+.ren_foo .ren_fa_san.a::before { background: url(rtj1009_ui014.png) 0px -201px no-repeat;}
+.ren_foo .ren_fa_si.a::before { background: url(rtj1009_ui014.png) 0px -242px no-repeat;}
+
+.ren_scrolltop a { background: url(ren_ft_pic.png) no-repeat; }
